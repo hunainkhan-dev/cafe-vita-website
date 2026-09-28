@@ -1,0 +1,13 @@
+{
+  "name": "Cafe Vita",
+  "short_name": "Cafe Vita",
+  "description": "Desi dining & corporate catering in Korangi, Karachi.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0B08",
+  "theme_color": "#0A0B08",
+  "icons": [
+    { "src": "/img/logo.jpg", "sizes": "512x512", "type": "image/jpeg" },
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
